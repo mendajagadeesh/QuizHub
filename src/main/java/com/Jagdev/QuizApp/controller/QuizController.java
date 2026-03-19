@@ -1,6 +1,5 @@
 package com.Jagdev.QuizApp.controller;
 
-import com.Jagdev.QuizApp.model.Question;
 import com.Jagdev.QuizApp.model.QuestionWrapper;
 import com.Jagdev.QuizApp.model.Response;
 import com.Jagdev.QuizApp.service.QuizService;
